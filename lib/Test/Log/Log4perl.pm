@@ -21,8 +21,8 @@ Test::Log::Log4perl - test log4perl
 =head1 SYNOPSIS
 
   # setup l4p
-  use Log::Log4Perl;
-  # do your normal Log::Log4Perl setup here
+  use Log::Log4perl;
+  # do your normal Log::Log4perl setup here
   use Test::Log::Log4perl;
 
   # get the loggers
